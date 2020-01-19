@@ -36,7 +36,7 @@ header a{
 
 header{
 	background: #dd2476;
-	background-image: url(org.PNG);
+	background-image: url("https://imagizer.imageshack.com/img923/6968/ya8rT0.png");
 	background-size: cover;
 }
 
@@ -121,7 +121,7 @@ header .container .col-md-7 button{
 
 .section-1{
 	padding: 20vmin 0;
-	background-image: url(bg2.JPG);
+	background-image: url("https://imagizer.imageshack.com/img921/7893/eecpYM.jpg");
 	background-size: cover;
 }
 
@@ -164,7 +164,7 @@ header .container .col-md-7 button{
 .cover{
 	width: 100%;
 	height: 70vmin;
-	background: url(r1.JPG);
+	background: url("https://imagizer.imageshack.com/img923/8295/bA7wd4.jpg");
 	background-position: 0em -19em;
 	background-size: 100%;
 	position: relative;
@@ -245,7 +245,7 @@ header .container .col-md-7 button{
 .section-3{
 	height: 70vmin;
 	margin-top: 5vmin;
-	background: url(j1.png);
+	background: url("https://imagizer.imageshack.com/img922/1329/lpwP75.png");
 	background-size: cover;
 }
 
